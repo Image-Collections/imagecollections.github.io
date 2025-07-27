@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Image Collections
-
-## How to Find Us
+# How to Find Us
 
 Image Collections is a comic book store in Mississauga.
 
