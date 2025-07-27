@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+title: Image Collections
+description: Comic book store in Mississauga
+logo: /assets/img/logo.png
+
+show_downloads: false
+footer: true
