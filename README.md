@@ -2,7 +2,7 @@
 
 ## Repo Info
 
-This is the repository for Image Collection store in Mississauga, Ontario, Canada. This website is hosted on GitHub Pages.
+This is the repository for Image Collections store in Mississauga, Ontario, Canada. This website is hosted on GitHub Pages.
 
 You can find it at [imagecollections.ca](https://www.imagecollections.ca).
 
