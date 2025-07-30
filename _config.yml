@@ -6,3 +6,6 @@ logo: /assets/img/logo.png
 
 show_downloads: false
 footer: true
+
+# GitHub Pages settings
+repository: image-collections/image-collections.github.io
