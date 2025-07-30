@@ -26,4 +26,4 @@ Go to the folder where the website is
 ```bundle install```
 
 This is the repeatable command to build the site and view it:  ```bundle exec jekyll serve```  
-Or use this to get live reload capabilities, while designing the site:  ```bundle exec jekyll serve --force_polling --livereloadad```
+Or use this to get live reload capabilities, while designing the site:  ```bundle exec jekyll serve --force_polling --livereload```
